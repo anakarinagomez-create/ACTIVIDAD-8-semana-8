@@ -1,0 +1,5 @@
+1. Implementar roles y permisos diferenciados
+2. Habilitar la verificación en dos pasos (2FA) para roles clave
+3. Establecer políticas de moderación y reportes de violencia digital
+4. Realizar copias de seguridad (backups) externas de forma periódica
+5. Eliminar metadatos de los archivos y fotografías compartidas

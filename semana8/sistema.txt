@@ -1,0 +1,8 @@
+--- INFORMACIÓN DE LOS COMANDOS ---
+uname -a: Muestra la información completa del sistema, incluyendo el nombre del kernel, la versión y la arquitectura del procesador.
+whoami: Muestra el nombre del usuario actual con el que se están ejecutando los comandos.
+
+--- IMPORTANCIA EN LA ADMINISTRACIÓN DE SERVIDORES ---
+1. Permite verificar la compatibilidad de arquitectura y software antes de realizar instalaciones.
+2. Ayuda a identificar versiones del sistema para aplicar parches de seguridad contra vulnerabilidades.
+3. Evita errores de ejecución al confirmar si se tienen los permisos de usuario adecuados (común vs root).
